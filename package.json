@@ -1,5 +1,5 @@
 {
-  "description": "Experimental stuff.",
+  "description": "Experimental round trip conversion API for lofty coordinates implemented in javascript.",
   "licsense": "MIT",
   "repository": "https://github.com/sthagen/js-koordinaatit",
   "jest": {
