@@ -3,8 +3,8 @@
   "licsense": "MIT",
   "repository": "https://github.com/sthagen/js-koordinaatit",
   "jest": {
-      "collectCoverage": true,
-      "collectCoverageFrom": [
+    "collectCoverage": true,
+    "collectCoverageFrom": [
       "**/*.{js,jsx}",
       "!**/node_modules/**",
       "!**/coverage/**",
